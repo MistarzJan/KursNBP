@@ -1,0 +1,13 @@
+/Users/dariasz/WSEI/PROGRAMOWANIE/NPBKurs/NPBKurs/obj/Debug/NPBKurs.csprojAssemblyReference.cache
+/Users/dariasz/WSEI/PROGRAMOWANIE/NPBKurs/NPBKurs/bin/Debug/NPBKurs.exe
+/Users/dariasz/WSEI/PROGRAMOWANIE/NPBKurs/NPBKurs/bin/Debug/NPBKurs.pdb
+/Users/dariasz/WSEI/PROGRAMOWANIE/NPBKurs/NPBKurs/bin/Debug/System.IO.dll
+/Users/dariasz/WSEI/PROGRAMOWANIE/NPBKurs/NPBKurs/bin/Debug/System.Net.Http.dll
+/Users/dariasz/WSEI/PROGRAMOWANIE/NPBKurs/NPBKurs/bin/Debug/System.Runtime.dll
+/Users/dariasz/WSEI/PROGRAMOWANIE/NPBKurs/NPBKurs/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/Users/dariasz/WSEI/PROGRAMOWANIE/NPBKurs/NPBKurs/bin/Debug/System.Security.Cryptography.Encoding.dll
+/Users/dariasz/WSEI/PROGRAMOWANIE/NPBKurs/NPBKurs/bin/Debug/System.Security.Cryptography.Primitives.dll
+/Users/dariasz/WSEI/PROGRAMOWANIE/NPBKurs/NPBKurs/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/dariasz/WSEI/PROGRAMOWANIE/NPBKurs/NPBKurs/obj/Debug/NPBKurs.csproj.CopyComplete
+/Users/dariasz/WSEI/PROGRAMOWANIE/NPBKurs/NPBKurs/obj/Debug/NPBKurs.exe
+/Users/dariasz/WSEI/PROGRAMOWANIE/NPBKurs/NPBKurs/obj/Debug/NPBKurs.pdb

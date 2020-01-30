@@ -11,3 +11,14 @@
 /Users/dariasz/WSEI/PROGRAMOWANIE/NPBKurs/NPBKurs/obj/Debug/NPBKurs.csproj.CopyComplete
 /Users/dariasz/WSEI/PROGRAMOWANIE/NPBKurs/NPBKurs/obj/Debug/NPBKurs.exe
 /Users/dariasz/WSEI/PROGRAMOWANIE/NPBKurs/NPBKurs/obj/Debug/NPBKurs.pdb
+C:\Users\janmi\Source\Repos\KursNBP\NPBKurs\bin\Debug\NPBKurs.exe
+C:\Users\janmi\Source\Repos\KursNBP\NPBKurs\bin\Debug\NPBKurs.pdb
+C:\Users\janmi\Source\Repos\KursNBP\NPBKurs\obj\Debug\NPBKurs.csprojAssemblyReference.cache
+C:\Users\janmi\Source\Repos\KursNBP\NPBKurs\obj\Debug\NPBKurs.exe
+C:\Users\janmi\Source\Repos\KursNBP\NPBKurs\obj\Debug\NPBKurs.pdb
+C:\Users\janmi\Source\Repos\KursNBP\NPBKurs\bin\Debug\MoreLinq.dll
+C:\Users\janmi\Source\Repos\KursNBP\NPBKurs\bin\Debug\System.ValueTuple.dll
+C:\Users\janmi\Source\Repos\KursNBP\NPBKurs\bin\Debug\MoreLinq.pdb
+C:\Users\janmi\Source\Repos\KursNBP\NPBKurs\bin\Debug\MoreLinq.xml
+C:\Users\janmi\Source\Repos\KursNBP\NPBKurs\bin\Debug\System.ValueTuple.xml
+C:\Users\janmi\Source\Repos\KursNBP\NPBKurs\obj\Debug\NPBKurs.csproj.CopyComplete
